@@ -1,4 +1,4 @@
-# TECH-HAVEN---DASHBOARD
+# 01 TECH-HAVEN---DASHBOARD
 ## About the company & project
 TECH HAVEN, a fast-growing consumer electronics company, is struggling to compete with data-driven rivals because most of their reports are still managed in Excel. My objective was to deploy an advanced analytics solution using Power BI to help the company gain insights and make informed decisions.
 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiZjU0NTI1ZmMtZWNkMi00ZmFlLThmNDItMGM3ZTYyMjUwM2VhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
